@@ -1,0 +1,12 @@
+{
+  "name": "wigglybattle",
+  "private": "true",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": "git@github.com:wwselleck/wigglybattle.git",
+  "author": "<wwselleck@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}

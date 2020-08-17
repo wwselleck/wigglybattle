@@ -1,0 +1,17 @@
+{
+  "name": "@wigglybattle/battler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "start": "yarn build && node ./dist/index.js"
+  },
+  "dependencies": {
+    "@types/node": "^14.0.27",
+    "@wigglybattle/pokemon-data": "^1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}

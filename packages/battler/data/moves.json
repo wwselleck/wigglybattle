@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bubble",
+    "type": "water",
+    "pp": 40,
+    "accuracy": 100,
+    "power": 40
+  },
+  {
+    "name": "Gust",
+    "type": "flying",
+    "pp": 40,
+    "accuracy": 100,
+    "power": 40
+  }
+]
